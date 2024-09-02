@@ -9,3 +9,4 @@ To run the project:
 2.Then run 'npm run dev'.
 <br/>
 3.Go to localhost:1234.
+
